@@ -247,10 +247,14 @@ h1 {
   box-shadow: 0 10px 25px rgba(203, 65, 84, 0.3);
 }
 
-.btn-outline {
-  color: var(--brand-ink);
-  border-color: rgba(19, 29, 59, 0.25);
-  background: #fff;
+.btn-whatsapp {
+  background-color: #25D366;
+  color: #fff;
+  border: none;
+}
+
+.btn-whatsapp:hover {
+  background-color: #1DA851;
 }
 
 .hero-card {
